@@ -1,0 +1,7 @@
+# CRYPTO
+# QUESTION
+    Decode this: zvavPGS{ABGUVATRNFVREGUNAPELCGB}
+# SOLUTION
+    Caesar Cipher decode
+# FLAG
+    miniCTF{NOTHINGEASIERTHANCRYPTO}
